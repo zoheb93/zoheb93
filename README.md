@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zoheb Amin
+# 👋 Hi, I'm Zoheb!
 
 🔧 **Site Reliability Engineer / DevOps Specialist** passionate about building scalable infrastructure, automating cloud environments, and improving system reliability. I have 10+ years of experience in Linux systems, AWS, monitoring, and CI/CD — and I'm constantly leveling up my skillset to stay ahead in cloud-native technologies.
 
