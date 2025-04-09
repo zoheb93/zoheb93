@@ -39,7 +39,7 @@ Here are a few projects I’m working on or have built:
 ## 📬 Contact
 
 - 📧 **Email**: [Zoheb1amin@gmail.com](mailto:Zoheb1amin@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/zohebamin](https://www.linkedin.com/in/zohebamin)
+- 💼 **LinkedIn**: [linkedin.com/in/zohebamin](https://www.linkedin.com/in/zoheb-amin-1a6569a5/)
 
 ---
 
