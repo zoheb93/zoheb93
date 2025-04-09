@@ -23,9 +23,9 @@
 
 Here are a few projects I’m working on and some that I will start soon:
 
-- [🚀 CI/CD for Flask App](https://github.com/your-username/ci-cd-flask-app) — CI/CD pipeline using GitHub Actions + Terraform + Docker
-- [🛠️ Mini AWS Infra](https://github.com/your-username/aws-infrastructure) — Provisioned VPC, EC2, and S3 with Terraform
-- [📈 Observability Stack](https://github.com/your-username/observability-stack) — Prometheus + Grafana on K8s
+- [🚀 CI/CD for Flask App](https://github.com/zoheb93/CI-CD-for-Flask-App) — CI/CD pipeline using GitHub Actions + Terraform + Docker
+- [🛠️ Mini AWS Infra](https://github.com/zoheb93/Mini-AWS-Infrastructure) — Provisioned VPC, EC2, and S3 with Terraform
+- [📈 Observability Stack](https://github.com/zoheb93/Observability-Stack-Setup) — Prometheus + Grafana on K8s
 
 ---
 
