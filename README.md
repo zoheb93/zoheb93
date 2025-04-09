@@ -21,7 +21,7 @@
 
 ## 📁 Featured Projects
 
-Here are a few projects I’m working on or have built:
+Here are a few projects I’m working on and some that I will start soon:
 
 - [🚀 CI/CD for Flask App](https://github.com/your-username/ci-cd-flask-app) — CI/CD pipeline using GitHub Actions + Terraform + Docker
 - [🛠️ Mini AWS Infra](https://github.com/your-username/aws-infrastructure) — Provisioned VPC, EC2, and S3 with Terraform
@@ -32,7 +32,7 @@ Here are a few projects I’m working on or have built:
 
 ## 📄 Resume
 
-[📥 Download My Resume (PDF)](https://your-link.com/ZohebAmin_Resume.pdf)
+[📥 Download My Resume (PDF)](https://coral-violet-5.tiiny.site)
 
 ---
 
